@@ -108,23 +108,7 @@ python banking_system.py
 
 ---
 
-## 🔮 Possible Extensions
 
-Want to take this further? Here are some ideas:
-
-- [ ] Add multiple account types (Savings, Current, Fixed Deposit)
-- [ ] Implement daily transaction limits
-- [ ] Add interest calculation for savings accounts
-- [ ] Store account data in a file (JSON / CSV) for persistence
-- [ ] Build a simple CLI menu for interactive use
-- [ ] Add timestamps to transaction history
-
----
-
-## 👤 Author
-
-**Your Name**  
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-username)
 
 ---
 
