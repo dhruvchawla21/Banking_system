@@ -56,7 +56,7 @@ Helper / Guard Methods  →  __verify_pin(), __check_active(), __log_transaction
 ```
 banking-system/
 │
-├── banking_system.py   # Main source file with Account class and demo
+├── Banking_system.py   # Main source file with Account class and demo
 └── README.md           # Project documentation
 ```
 
