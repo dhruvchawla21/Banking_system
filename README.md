@@ -71,7 +71,7 @@ banking-system/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/banking-system.git
+git clone https://github.com/dhruvchawla21/banking-system.git
 
 # Navigate into the folder
 cd banking-system
